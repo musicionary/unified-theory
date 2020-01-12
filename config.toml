@@ -1,26 +1,26 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Unified Theory"
 theme = "hyde"
 
 [Params]
     mainSections = ["post"]
     intro = true
     headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    description = "Building a unified theory of some things"
+    github = "https://github.com/musicionary"
+    twitter = "https://twitter.com/musicionary"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
+    themeColor = "theme-base-0g"
 
 [Permalinks]
     post = "/:filename/"
 
 [[menu.main]]
     name = "Blog"
-    url = "/"
+    url = "/post/"
     weight = 1
 
 [[menu.main]]
