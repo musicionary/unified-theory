@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Unified Theory</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Unified Theory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 15:21:42 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Origin of Unified Theory</title>
+      <link>/blog-origin/</link>
+      <pubDate>Sun, 12 Jan 2020 15:21:42 -0600</pubDate>
+      
+      <guid>/blog-origin/</guid>
+      <description>Sometime in late 2019 while perusing Hacker News, I came across a post Consume less, create more. Go read it.
+Actually, wait. We all know context switching feels good, but can we just&amp;hellip; not.
+Still here? Great, you should still check out that article later.
+Essentially, the witty author recounts how their life is vastly weighted towards consuming media instead of creating it. I chuckled in the beginning of the article, but then I read something that felt like a hot iron in my head:</description>
+    </item>
+    
+  </channel>
+</rss>
