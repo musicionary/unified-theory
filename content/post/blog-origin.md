@@ -5,7 +5,7 @@ author = "Chip Carnes"
 date = 2020-01-12T15:21:42-06:00
 tags = []
 categories = []
-draft = false
+draft = true
 +++
 
 Sometime in late 2019 while perusing Hacker News, I came across a post [Consume less, create more](https://tjcx.me/posts/consumption-distraction/).  Go read it.

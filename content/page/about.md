@@ -1,15 +1,28 @@
 +++
-title = "About"
-date = 2015-04-03T02:13:50Z
+title = "Who Am I?"
+date = 2020-05-30T02:13:50Z
 author = "Chip Carnes"
-description = "Things about me."
-draft = true
+description = "Always coming to the edge of the existentialist cliff"
+draft = false
 +++
 
-## About
+This question plagues me every day. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+What is my identity?   
+Are identity and consciousness the same thing? 
 
-## School
+If my all my cells have regenerated every seven years, am I the same person that I was in my twenties? How does my consciousness
+preserve my sense of identity?
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+Those are fun questions but not very useful for you, so here's some facts about me:
+- I'm a credentialed violist
+    - This means that a lot of money changed hands for me to understand music from dead people.
+    - Nowadays, this looks like music from people that died a really long time ago. Not Beethoven; older. Older than that.
+    - Like [12th century mystics](https://en.wikipedia.org/wiki/Hildegard_of_Bingen) who also happen to be famous composers.
+- I'm also a software engineer
+    - I generally focus on data-centric software.  In the past this has looked like building data visualization applications, and distributed financial data systems.
+    - Currently at [Eventbrite](https://eventbrite.com)
+- Outside of work, I think and read about human information access, discovery, processing, and retention.
+    - We live an a world where, in theory, more information is available to us than we know what to do with.  Knowing how to
+    find, filter, and integrate that information into our lives is a significant aspect of the zeitgeist of this century.
+    - I believe this area will significantly direct the course of the global population for decades to come.
