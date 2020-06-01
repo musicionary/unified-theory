@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "chipcarnes.com"
 languageCode = "en-us"
 title = "Unified Theory"
 theme = "hyde"
