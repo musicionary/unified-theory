@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Unified Theory</title>
+    <link>chipcarnes.com/page/</link>
+    <description>Recent content in Pages on Unified Theory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="chipcarnes.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Am I?</title>
+      <link>chipcarnes.com/page/about/</link>
+      <pubDate>Sat, 30 May 2020 02:13:50 +0000</pubDate>
+      
+      <guid>chipcarnes.com/page/about/</guid>
+      <description>This question plagues me every day.
+What is my identity?
+Are identity and consciousness the same thing?
+If my all my cells have regenerated every seven years, am I the same person that I was in my twenties? How does my consciousness preserve my sense of identity?
+Those are fun questions but not very useful for you, so here&amp;rsquo;s some facts about me:
+  I&amp;rsquo;m a credentialed violist
+ This means that a lot of money changed hands for me to understand music from dead people.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>chipcarnes.com/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>chipcarnes.com/page/contact/</guid>
+      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+    </item>
+    
+  </channel>
+</rss>

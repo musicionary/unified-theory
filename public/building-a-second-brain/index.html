@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.71.1" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Building a Second Brain &middot; Unified Theory</title>
+  <meta name="description" content="Ingesting, creating, and networking what you read." />
+
+  
+  <link type="text/css" rel="stylesheet" href="chipcarnes.comcss/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="chipcarnes.comcss/poole.css">
+  <link type="text/css" rel="stylesheet" href="chipcarnes.comcss/syntax.css">
+  <link type="text/css" rel="stylesheet" href="chipcarnes.comcss/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body class="theme-base-0g ">
+  <aside class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <a href="chipcarnes.com"><h1>Unified Theory</h1></a>
+      <p class="lead">
+       Writings on integrating with obscene amounts of information. 
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="chipcarnes.com">Home</a> </li>
+        <li><a href="/page/about">About</a> </li>
+        
+      </ul>
+    </nav>
+
+    <div class="nav-footer">
+      <span><a href="https://github.com/musicionary">GitHub</a></span>
+      <span><a href="https://www.goodreads.com/user/show/7984451-chip-carnes">Goodreads</a></span>
+      <p>
+          &copy; 2020. All rights reserved. 
+      </p>
+    </div>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Building a Second Brain</h1>
+  <time datetime=2020-05-31T13:39:31-0500 class="post-date">Sun, May 31, 2020</time>
+  <p>In early winter of this year, just a little before we were it the throes of the COVID-19 pandemic,
+I was in my daily perusing of Hacker News. I came across a post on <a href="https://superorganizers.substack.com/p/how-to-build-a-learning-machine###">Superorganizers</a> about personal information storage and retrieval.
+Little did I know, I was about to head down a months-long endeavor of crafting a system
+of tools for reading, note-taking, and linking ideas together.</p>
+<p>Whether I did this because of quarantine, or whether it would have happened regardless is hard to say, but it been
+a great way to pass the time. To me it felt like the process that woodworkers go through when they build a bunch of
+tools, just to be able to build the things they actually want to build.</p>
+<p>My intent in writing this is to lay out the system of tools that I&rsquo;ve become relatively satisfied with, so that you&rsquo;re
+able to implement something similar without it having to take you a <strong>global pandemic&rsquo;s worth of weekends with
+nothing else to do</strong>, just to stitch the tools together.</p>
+<blockquote>
+<p><em>The obvious caveat: all software referenced make change by the time you read this. YMMV</em></p>
+</blockquote>
+<h2 id="what-to-do-with-what-you-read">What to do with what you read</h2>
+<p>Odds are, you&rsquo;ve probably seen something on the interwebs that says something to the effect of &ldquo;Super rich and smart
+white man is super rich and smart because they read an insane amount&rdquo;. And maybe if you&rsquo;re like me you&rsquo;ve thought, <em>&ldquo;I guess I can be super smart too, if I only read as much as those people.&quot;</em></p>
+<p>And for many years, I&rsquo;ve read few dozen books each year.  Some of which have been duds, others of which have been life-changing.
+Looking over my Goodreads list though (let&rsquo;s be friends on Goodreads; it&rsquo;s the only &ldquo;social media&rdquo; I care about), most of the
+books I&rsquo;ve read I only vaguely remember.</p>
+<blockquote>
+<p>Maybe (maybe?) could I give you a elevator pitch summary on each book.  But even with the life-changing books, I couldn&rsquo;t tell you
+what parts or ideas had an impact on me.</p>
+</blockquote>
+<p>Such is true, if not more, with articles I read online.</p>
+<p><em>If only there were a way to frequently encounter ideas I&rsquo;ve read in the past&hellip;</em></p>
+<p>Enter <a href="https://readwise.io">Readwise</a></p>
+<h3 id="spaced-repetition---a-recipe">Spaced repetition - a recipe</h3>
+<ol>
+<li>Highlight things you read</li>
+<li>Sign up for Readwise.
+<ul>
+<li>There&rsquo;s a trial period; then you must pay a paltry amount <strong>TO BUILD A SECOND BRAIN</strong></li>
+</ul>
+</li>
+<li>Write notes based on the highlights delivered to your inbox each day.</li>
+<li>Repeat ad infinitum.  Now you have a second brain (mostly).</li>
+</ol>
+<p>The details:</p>
+<p>If you have a moment, go read that article from Superorganizers.  This was the impetus and blueprint for my journey.</p>
+<p>The general idea is that you want to be saving things that you find impactful, insightful, or generally memorable.
+Facts, witticisms, beautiful wordcraft, whatever. The intention is to highlight anything that you think you might want
+to come back to in the future.</p>
+<p>I mostly highlight via Kindle ebooks. This is one of many sources that Readwise can ingest from.</p>
+<p><img src="/images/Readwise.png/" alt="Readwise Sources"></p>
+<p><em>omg look at all the options</em></p>
+<p>&ldquo;But I prefer reading physical books&rdquo;.  Great! The Readwise mobile app will let you take pictures of book pages, and
+then you can functionally add highlights from that.  You can also manually input &ldquo;highlights&rdquo;. Check their docs for
+more details.</p>
+<p>Ideally each day, you would read through the highlights that Readwise sends you and then write a <strong>short</strong> note about
+the highlights that make the neurons in your brain giggle (not a scientific definition).</p>
+<h2 id="taking-notes">Taking Notes</h2>
+<p>Strangely in 2020, there seems to be an plethora of note taking apps that are being developed.
+Some are feature-rich, some are bare bones.</p>
+<p>I recommend visiting <a href="https://zettelkasten.de/">Zettelkasten</a> and it&rsquo;s Forum for suggestions. That website is a bit
+of a rabbit hole, but there&rsquo;s some amazing ideas and thought-organization patterns coming from that community.</p>
+<p>I think a good note taking app should be open source, or at least have a cloud storage option that is yours
+(Dropbox, Google Drive, etc) so that if the app is shuttered some day, you&rsquo;ll still have your notes.</p>
+<p>I also think the app should support, or primarily use Markdown.  When you&rsquo;re writing, do you like finding and clicking
+buttons (or even keyboard shortcuts) just to format your text??</p>
+<p>Neither do I.</p>
+<p>Use Markdown. Leave your hands on the keyboard. It&rsquo;ll change your life.</p>
+<p>Additionally, a critical feature for note taking is the ability to link notes/ideas together.  Markdown has great
+support for internal links.</p>
+<h3 id="linking-notes">Linking notes</h3>
+<p>One aspect of linking notes that I find particularly useful is the ability to see any other notes reference the same link.
+This is known as backlinking, and recently I&rsquo;ve discovered a couple of applications that feature backlinking.  One
+is <a href="https://roamresearch.com">Roam Research</a> and the other is <a href="https://obsidian.md">Obsidian</a>.</p>
+<p>Of the two I prefer Obsidian because the source of your notes lives either on your computer or in the cloud (i.e. Dropbox).</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/cFYaWC_86W0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="connecting-ideas">Connecting Ideas</h3>
+<p>Here&rsquo;s the summary of my workflow up to this point.</p>
+<ol>
+<li>I read stuff and highlight.</li>
+<li>Readwise gathers my highlights and emails me a selection of them.</li>
+<li>I read through my Readwise highlights and if any of them stand out to me, I write a new note (even if I&rsquo;ve written
+about the highlight previously).</li>
+<li>I&rsquo;ll add links in that note for certain words or phrases.  This could be things like [[note-taking]] or [[class-warfare]]
+or [[emergence theory]]</li>
+<li>Then, I&rsquo;ll click that link to view any backlinks, and I&rsquo;ll read through other notes I&rsquo;ve written that reference that
+concept.</li>
+</ol>
+<p>The last step provides new material to connect ideas for the note that I&rsquo;m actively writing. Also, this can lead me down
+a rabbit hole of reading through various notes and updating them with links to other things.  This is the best part of
+the process, because this is where you are creating a network of ideas.  Intuitively you might connect things like
+note-taking and productivity.  But maybe you&rsquo;ll also find yourself connecting productivity and pop-tarts.</p>
+<p>For me, the point of this isn&rsquo;t to connect only logical concepts.  It&rsquo;s to connect <strong>anything</strong> that could possible relate,
+regardless of how distant they may seem.</p>
+<blockquote>
+<p>An idea is a connection. Yours is the kind of mind that is always looking for connections, and so you are intrigued when seemingly disparate phenomena can be linked by an obscure connection. An idea is a new perspective on familiar challenges.</p>
+<p>You revel in taking the world we all know and turning it around so we can view it from a strange but strangely enlightening angle. You love all these ideas because they are profound, because they are novel, because they are clarifying, because they are contrary, and because they are bizarre.[<a href="https://www.gallup.com/cliftonstrengths/en/252260/ideation-theme.aspx">1</a>]</p>
+</blockquote>
+<p>In short, connecting ideas like this is closer to the tangled up way that concepts are stored in your brain.</p>
+<p>Also, if mind maps are your thing, check out this <em>faaaaancy</em> graph view of connected notes.</p>
+<p><img src="/images/obsidian_graph.png/" alt="Obsidian Graph View"></p>
+<h2 id="bonus-handwriting-notes">Bonus: Handwriting Notes</h2>
+<p>I&rsquo;m a kinesthetic learner, and if I really need to remember something I&rsquo;m gonna write it down by hand. Obviously,
+this is pretty sucky for integrating this low-tech note creation with a second-brain type note taking app. Ideally,
+I want to be able to write a note, and then it easily be added to all my other notes, linked, and searchable from my
+computer.</p>
+<h3 id="the-ipad">The iPad</h3>
+<p>I really think the iPad + Apple Pencil has been a game changer for me. I found the app <a href="https://nebo.app">Nebo</a> which is
+amazing at handwriting recognition, and handwriting-to-text conversion.</p>
+<p>With this, I can write notes on the iPad and then export them to Dropbox, in the same folder/directory as all my other notes.
+This means that I write a note, convert it to text, export it, and then I can find it on my computer without any extra work.</p>
+<p>Additionally, if I can write the Markdown link syntax <code>[[example-link]]</code> in the handwritten note.  And once it&rsquo;s in the
+cloud with my other notes, I can then use Obsidian to explore all the backlinks.</p>
+<p><img src="https://media.giphy.com/media/cOB8cDnKM6eyY/giphy.gif" alt="Falcor"></p>
+
+</div>
+
+
+    </main>
+
+    
+  </body>
+</html>
