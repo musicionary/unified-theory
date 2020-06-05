@@ -2,25 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Unified Theory</title>
-    <link>/post/</link>
+    <link>chipcarnes.com/post/</link>
     <description>Recent content in Posts on Unified Theory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 15:21:42 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 13:39:31 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="chipcarnes.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Building a Second Brain</title>
+      <link>chipcarnes.com/building-a-second-brain/</link>
+      <pubDate>Sun, 31 May 2020 13:39:31 -0500</pubDate>
+      
+      <guid>chipcarnes.com/building-a-second-brain/</guid>
+      <description>In early winter of this year, just a little before we were it the throes of the COVID-19 pandemic, I was in my daily perusing of Hacker News. I came across a post on Superorganizers about personal information storage and retrieval. Little did I know, I was about to head down a months-long endeavor of crafting a system of tools for reading, note-taking, and linking ideas together.
+Whether I did this because of quarantine, or whether it would have happened regardless is hard to say, but it been a great way to pass the time.</description>
+    </item>
+    
+    <item>
       <title>The Origin of Unified Theory</title>
-      <link>/blog-origin/</link>
+      <link>chipcarnes.com/blog-origin/</link>
       <pubDate>Sun, 12 Jan 2020 15:21:42 -0600</pubDate>
       
-      <guid>/blog-origin/</guid>
+      <guid>chipcarnes.com/blog-origin/</guid>
       <description>Sometime in late 2019 while perusing Hacker News, I came across a post Consume less, create more. Go read it.
 Actually, wait. We all know context switching feels good, but can we just&amp;hellip; not.
 Still here? Great, you should still check out that article later.
 Essentially, the witty author recounts how their life is vastly weighted towards consuming media instead of creating it. I chuckled in the beginning of the article, but then I read something that felt like a hot iron in my head:</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>chipcarnes.com/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      
+      <guid>chipcarnes.com/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>chipcarnes.com/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      
+      <guid>chipcarnes.com/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Migrating from Jekyll</title>
+      <link>chipcarnes.com/migrate-from-jekyll/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      
+      <guid>chipcarnes.com/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>chipcarnes.com/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>chipcarnes.com/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
   </channel>

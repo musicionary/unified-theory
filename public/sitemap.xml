@@ -3,26 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
+    <loc>chipcarnes.com/building-a-second-brain/</loc>
+    <lastmod>2020-05-31T13:39:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/post/</loc>
+    <lastmod>2020-05-31T13:39:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/</loc>
+    <lastmod>2020-05-31T13:39:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/page/</loc>
+    <lastmod>2020-05-30T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/page/about/</loc>
+    <lastmod>2020-05-30T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/blog-origin/</loc>
     <lastmod>2020-01-12T15:21:42-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog-origin/</loc>
-    <lastmod>2020-01-12T15:21:42-06:00</lastmod>
+    <loc>chipcarnes.com/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-01-12T15:21:42-06:00</lastmod>
+    <loc>chipcarnes.com/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>chipcarnes.com/goisforlovers/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>chipcarnes.com/tags/development/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/go/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/migrate-from-jekyll/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/templates/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/themes/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>chipcarnes.com/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
