@@ -6,5 +6,10 @@
     </main>
 
     {{ template "_internal/google_analytics_async.html" . }}
+    <footer class="{{ .Site.Params.themeColor }}">
+      <p>
+        &copy; {{ now.Format "2006"}} {{ with .Site.Params.copyright }}{{.}}{{end}}. All rights reserved. 
+      </p>
+    </footer>
   </body>
 </html>
