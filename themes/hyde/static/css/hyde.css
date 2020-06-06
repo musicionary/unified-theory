@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem 1rem 1rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -67,6 +67,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    padding: 2rem 1rem;
   }
 }
 
@@ -99,10 +100,17 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
-  list-style: none;
 }
-.sidebar-nav-item {
-  display: block;
+.sidebar-nav p {
+    display: inline-block;
+    padding: .3em;
+}
+@media (min-width: 48em) {
+    .sidebar-nav p {
+        display: block;
+        padding: 0;
+        height: .5em;
+    }
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -113,10 +121,15 @@ a.sidebar-nav-item:focus {
 }
 
 .nav-footer {
-    position: fixed;
-    left: 1;
-    bottom: 0;
-    width: 100%;
+    display: none;
+}
+
+@media (min-width: 48em) {
+    .nav-footer {
+        display: block;
+        width: 100%;
+        margin-top: 140%;
+    }
 }
 
 /* Sticky sidebar
@@ -183,6 +196,29 @@ a.sidebar-nav-item:focus {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;
+  }
+}
+
+/*
+* Footer
+* Displayed only on wider viewports
+*/
+footer {
+  display: block;
+  margin-bottom: -20px;
+  padding: .5em;
+  color: #fff;
+  font-family: "Abril", serif;
+  text-align: center;
+}
+footer p {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+@media (min-width: 48em) {
+  footer {
+      display: none;
   }
 }
 
@@ -269,8 +305,11 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Brown */
+/* Green-ish */
 .theme-base-0g .sidebar {
+  background-color: #179497;
+}
+.theme-base-0g footer {
   background-color: #179497;
 }
 .theme-base-0g .content a,
