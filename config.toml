@@ -14,7 +14,14 @@ theme = "hyde"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
     themeColor = "theme-base-0g"
+    copyright = "Chip Carnes"
 
 [Permalinks]
     post = "/:filename/"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/musicionary/"},
+      {Name = "Goodreads", URL = "https://www.goodreads.com/user/show/7984451-chip-carnes"}
+  ]
 
