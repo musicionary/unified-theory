@@ -89,7 +89,7 @@ html {
 
 @media (min-width: 48em) {
     .sidebar-about h1 {
-        font-size: 3.25rem;
+        font-size: 2rem;
     }
     .sidebar-about .lead {
         display: block;
