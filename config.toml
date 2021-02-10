@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Unified Theory"
 theme = "hyde"
+relativeUrls = true
 
 [Params]
     mainSections = ["post"]
