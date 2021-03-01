@@ -12,7 +12,7 @@ Recently, I've dipped my toes in the ocean of the Web3 world [see what I did the
 
 ## Information Hashing
 - Information/content should be cryptographically hashed.
-- When that contentt is updated, the hash should change.
+- When that content is updated, the hash should change.
 - Previous hashes should still persist and could though of or represent the concept of "older" information.
 - Content and its respective edits should have some concept of information "nearness" that is calculatable (i.e. If a word is changed, the resulting hash should be nearer, than say a paragraph that is changed.)
 - There should be a way to visually represent the nearness of two hashes. Additionally, this doesn't have to be explicitly tied to a specific entity.  If I write a sentence on this site, and you write the same exact sentence elsewhere, the hashes should be the same.
