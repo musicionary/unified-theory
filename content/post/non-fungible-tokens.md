@@ -1,5 +1,5 @@
 +++
-title = "Non Fungable Tokens"
+title = "Non-Fungible Tokens"
 description = ""
 author = "Chip Carnes"
 date = 2021-02-28T19:42:00-06:00
