@@ -5,7 +5,7 @@ author = "Chip Carnes"
 date = 2021-02-28T18:29:38-06:00
 tags = []
 categories = []
-draft = false
+draft = true
 +++
 
 Recently, I've dipped my toes in the ocean of the Web3 world [see what I did there Ocean Protocol??](https://oceanprotocol.com/).  During this time, this inspired me to think about my current knowledge tools, and the sort of tools that would be lovely to work with in a Web3 ecosystem.  I'm sure that many of these ideas already exist, but here's how I've imagined stringing them together.

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "A Decentralized Brain"
+title = "Grieving Sleep"
 theme = "hyde"
 relativeUrls = true
 
@@ -8,7 +8,7 @@ relativeUrls = true
     mainSections = ["post"]
     intro = true
     headline = "My headline"
-    description = "Writings on integrating with obscene amounts of information."
+    description = "A journey of sleeplessness"
     github = "https://github.com/musicionary"
     twitter = "https://twitter.com/musicionary"
     opengraph = true
